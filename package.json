@@ -7,7 +7,7 @@
   "main": "index.js",
   "dependencies": {
     "bulma": "0.7.1",
-    "vue": "2.5.3",
+    "vue": "3.0.0",
     "vue-dragscroll": "1.4.2"
   }
 }
